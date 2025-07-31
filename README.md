@@ -11,4 +11,4 @@ SunSwap | A decentralized exchange protocol for automated liquidity provision on
 If you have any questions about this project, or wish to engage with us:
 
 - [Telegram](https://t.me/SunIO_Defi)
-- [Twitter](https://twitter.com/defi_sunio)
+- [Twitter](https://x.com/sunpumpmeme)
